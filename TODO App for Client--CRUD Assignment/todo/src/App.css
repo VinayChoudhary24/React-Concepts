@@ -1,0 +1,26 @@
+.app {
+  padding: 5px;
+  margin: 5px;
+  border: 2px solid lightgray;
+}
+
+.app__todo {
+  color: saddlebrown;
+}
+
+.app__button {
+  color: black;
+  background-color: rgb(189, 189, 71)
+}
+
+.app__quote {
+  color: rgb(90, 78, 167);
+}
+
+.app__delete {
+  color: red;
+}
+
+.app__update {
+  color: green;
+}

@@ -1,0 +1,8 @@
+.error {
+    color: green;
+}
+
+/*UTILIZE THE CSS VARIABLE HERE ALSO */
+/* .error {
+    color: var(--error-color);
+} */

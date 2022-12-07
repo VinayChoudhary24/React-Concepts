@@ -1,0 +1,19 @@
+.product {
+    padding: 20px;
+    margin: 15px;
+    border: 1px solid red;
+}
+
+/* .error {
+    color: red;
+    font-weight: bolder;
+} */
+
+/*GO TO INDEX.CSS AND DEFINE THE CSS VARIABLE FOR ERROR AND UTILIZE THE CSS VARIABLE ERROR HERE LIKE THIS */
+.error {
+    color: var(--error-color);
+}
+
+.price {
+    color: saddlebrown;
+}
